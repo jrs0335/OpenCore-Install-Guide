@@ -1,4 +1,4 @@
-# 为什么OpenCore超过Clover和其他公司
+# 为什么OpenCore比Clover和其他更好
 
 本节简要介绍了为什么社区已经过渡到OpenCore，并旨在消除社区中常见的一些误解。那些只是想要一台macOS机器的人可以跳过这一页。
 
